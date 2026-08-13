@@ -69,23 +69,57 @@
 
 ---
 
-## ⚙️ Backend & Frameworks
+## 🤖 AI, Machine Learning & Generative AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,oracle,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-* Java
-* Spring Boot
-* Spring MVC
-* Spring Data JPA
-* REST APIs
-* Microservices
-* Hibernate
-* MySQL
-* Oracle
+**Machine Learning**
 
----
+* Supervised & Unsupervised Learning
+* Regression & Classification
+* Decision Trees & Random Forest
+* SVM, KNN & Naive Bayes
+* Clustering & Dimensionality Reduction
+* Ensemble Learning
+* Model Evaluation & Optimization
+
+**Deep Learning**
+
+* Artificial Neural Networks (ANN)
+* CNN
+* Transfer Learning
+* Transformers
+* Vision Transformers (ViT)
+
+**Generative AI & LLMs**
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Embeddings & Semantic Search
+* Vector Databases
+* LangChain
+* Hugging Face
+* Fine-Tuning & PEFT
+
+**Computer Vision**
+
+* Image Classification
+* Object Detection
+* Image Segmentation
+* Image Preprocessing
+* GANs & Diffusion Models
+
+**Research Interests**
+
+* Explainable AI (XAI)
+* Multimodal AI
+* Multilingual AI
+* GraphRAG & Knowledge Graphs
+* AI for Precision Agriculture
+
 
 ## 🔬 Research Interests
 
@@ -133,9 +167,10 @@ Research-oriented framework for citrus disease diagnosis, treatment recommendati
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhammadane&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammadane&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhammadane&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammadane&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 
 ---
 
