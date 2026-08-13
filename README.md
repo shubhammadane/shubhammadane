@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+ 
 ## 👨‍💻 About Me
 
 * 🎓 **M.Tech in Computer Science & Engineering**
