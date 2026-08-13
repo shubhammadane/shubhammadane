@@ -64,7 +64,7 @@
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" />
 </p>
 
 ---
