@@ -1,345 +1,218 @@
-👋 Hi, I'm Shubham S. Madane
+# 👋 Hi, I'm Shubham Madane
 
-AI/ML Researcher | Deep Learning | Computer Vision | Educator
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI%2FML+Researcher;Deep+Learning+Enthusiast;Computer+Vision+Researcher;CNN+%7C+GAN+%7C+LSTM;Engineering+Educator" alt="Typing SVG" />
-</p>
+### 🤖 AI Engineer | Generative AI | Machine Learning | RAG | Researcher | Java Backend
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+GenAI+%7C+Machine+Learning;RAG+%7C+LLMs+%7C+Computer+Vision;Java+%7C+Spring+Boot+%7C+Python;Research+%7C+AI+for+Agriculture" />
 </p>
 
-👨‍💻 About Me
+---
 
-🎓 Computer Science & Engineering academic professional
+## 👨‍💻 About Me
 
-🔬 Interested in Artificial Intelligence, Machine Learning and Deep Learning
+* 🎓 **M.Tech in Computer Science & Engineering**
+* 👨‍🏫 **Computer Science / Engineering Faculty**
+* 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
+* 🧠 Working with **RAG, LLMs, Transformers, Computer Vision and Deep Learning**
+* 🔬 Interested in **AI Research and Explainable AI**
+* 🌱 Currently learning **Advanced RAG, LLMs, Diffusion Models and Multimodal AI**
+* ☕ Backend experience with **Java, Spring Boot, REST APIs and Microservices**
+* 🐍 Machine Learning development using **Python**
+* 🎯 Goal: Build production-ready **AI Engineering systems** and contribute to high-quality AI research
 
-🧠 Research interests: CNN, GAN, LSTM, Computer Vision and Generative AI
+---
 
-🌱 Interested in applying AI to real-world problems
+## 🧠 AI & Machine Learning
 
-👨‍🏫 Passionate about teaching and mentoring engineering students
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* CNN
+* Transfer Learning
+* GAN
+* Transformers
+* Large Language Models (LLMs)
+* Generative AI
+* Retrieval-Augmented Generation (RAG)
+* Computer Vision
+* Natural Language Processing
+* Explainable AI
+* Multimodal AI
 
-📚 Interested in research, publications and emerging AI technologies
+---
 
-💡 Believe in learning by building practical projects
+## 🤖 Generative AI & RAG
 
-🔬 Research Interests
+* RAG Architecture
+* Document Loaders
+* Text Chunking
+* Embeddings
+* Vector Databases
+* FAISS
+* ChromaDB
+* LangChain
+* LLM Integration
+* Prompt Engineering
+* Semantic Search
+* Hybrid Search
+* GraphRAG
+* Knowledge Graphs
+* Source Attribution
+
+---
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql" />
+</p>
+
+---
+
+## ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,oracle,git,github,docker" />
+</p>
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* REST APIs
+* Microservices
+* Hibernate
+* MySQL
+* Oracle
+
+---
+
+## 🔬 Research Interests
+
+* Generative AI
+* Retrieval-Augmented Generation
+* Large Language Models
+* Multimodal AI
+* Computer Vision
+* Explainable AI
+* AI for Agriculture
+* Medical / Agricultural Image Analysis
+* Knowledge Graphs
+* GraphRAG
+* AI-based Decision Support Systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Multilingual Agricultural RAG System
+
+**Python | LangChain | LLM | FAISS | NLP | RAG**
+
+Retrieval-Augmented Generation based multilingual agricultural advisory system supporting Indian farmers with evidence-based recommendations.
+
+---
+
+### 🍊 Citrus Disease Detection
+
+**Python | CNN | GAN | Deep Learning | Computer Vision**
+
+Deep-learning based citrus leaf disease detection using GAN-based data augmentation and CNN classification.
+
+---
+
+### 🔬 Explainable Multimodal AI Framework
+
+**Vision-Language Models | RAG | Computer Vision | LLM**
+
+Research-oriented framework for citrus disease diagnosis, treatment recommendation and precision agriculture.
+
+---
+
+
+## 📊 GitHub Statistics
 
 <p align="center">
-
-
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=shubhammadane&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammadane&layout=compact&theme=tokyonight" />
 </p>
 
-Artificial Intelligence
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=shubhammadane&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shubhammadane&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
 Machine Learning
+      ↓
 Deep Learning
-Computer Vision
-Generative AI
-Convolutional Neural Networks
-Generative Adversarial Networks
-DCGAN
-LSTM / CNN-LSTM
-Image Classification
-Data Augmentation
-Agricultural AI
-
-🧠 Skills & Technologies
-
-💻 Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Programming Skills" />
-</p>
-
-🤖 AI / ML / Deep Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,sklearn" alt="AI ML Skills" />
-</p>
-
-🛠️ Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Development Tools" />
-</p>
-
-🚀 Featured Research Project
-
-🍊 Citrus Leaf Disease Detection Using GAN-Based Data Augmentation and Convolutional Neural Networks
-
-A deep learning-based research project for citrus leaf disease classification using real-world farm images, GAN-based data augmentation and CNN-based image classification.
-
-🔍 Project Highlights
-
-📷 Real agricultural field RGB images
-
-🧠 CNN-based disease classification
-
-🤖 Class-specific GAN/DCGAN-based data augmentation
-
-⚖️ Handling class imbalance and data scarcity
-
-📊 Precision, Recall and F1-score evaluation
-
-🌱 AI-based agricultural disease detection
-
-🔄 Proposed Pipeline
-
-          Real Farm Images
-                 │
-                 ▼
-        Image Preprocessing
-                 │
-                 ▼
-       Class Distribution Analysis
-                 │
-                 ▼
-      GAN-Based Data Augmentation
-                 │
-                 ▼
-       CNN Feature Extraction
-                 │
-                 ▼
-       Disease Classification
-                 │
-                 ▼
-       Performance Evaluation
-
-🍃 Disease Classes
-
-Class
-
-Canker
-
-Black Spot
-
-Greening
-
-Healthy
-
-Leaf Blast
-
-Melanose
-
-📊 Research Performance
-
-GAN-CNN Approach
-
-Baseline CNN Accuracy     : 86.42%
-Proposed GAN-CNN Accuracy : 92.78%
-
-The proposed pipeline uses GAN-based augmentation to address data scarcity and class imbalance before CNN-based classification.
-
-🔥 Other Research Interest
-
-Thermal Facial Stress Detection Using Hybrid CNN-LSTM
-
-A deep learning approach for stress-level classification from thermal facial images by combining spatial feature extraction using CNN with temporal modeling using LSTM.
-
-Thermal Facial Images
-        ↓
-Face Detection
-        ↓
-Facial Landmark / ROI Extraction
-        ↓
-Image Preprocessing
-        ↓
-CNN Feature Extraction
-        ↓
-LSTM Temporal Learning
-        ↓
-Stress Classification
-
-📚 Teaching & Academic Interests
-
-I enjoy explaining complex technical concepts in a simple and practical way.
-
-Topics
-
-🐍 Python Programming
-
-☕ Java Programming
-
-🌳 Data Structures
-
-🤖 Machine Learning
-
-🧠 Deep Learning
-
-👁️ Computer Vision
-
-✨ Generative AI
-
-📊 Data Analysis
-
-🔬 Research Methodology
-
-🧩 Academic & Technical Topics
-
-Python
-Java
-Data Structures
-Object-Oriented Programming
-Machine Learning
-Classification
-Logistic Regression
-Convolutional Neural Networks
-Generative Adversarial Networks
-Variational Autoencoders
-Autoregressive Models
+      ↓
 Transformers
-Attention Mechanisms
-Computer Vision
-Image Processing
-LSTM
-CNN-LSTM
+      ↓
+LLMs
+      ↓
+RAG
+      ↓
+Advanced RAG
+      ↓
+GraphRAG
+      ↓
+Multimodal AI
+      ↓
+AI Agents
+```
 
-🎯 Current Focus
+---
 
-🔬 AI/ML Research
+## 📈 My Engineering Focus
 
-🧠 Deep Learning architectures
+| Area         | Focus                                 |
+| ------------ | ------------------------------------- |
+| 🤖 AI        | Machine Learning, Deep Learning       |
+| 🧠 GenAI     | LLMs, RAG, Transformers               |
+| 👁️ Vision   | CNN, Transfer Learning, Vision Models |
+| 🔎 Retrieval | FAISS, ChromaDB, Hybrid Search        |
+| ☕ Backend    | Java, Spring Boot, REST APIs          |
+| 🔬 Research  | Explainable & Multimodal AI           |
+| 🌾 Domain    | AI for Agriculture                    |
 
-🤖 Generative AI
+---
 
-👁️ Computer Vision
-
-🌱 AI for Agriculture
-
-📖 Research Paper Publication
-
-👨‍🏫 Student Mentoring
-
-💻 Practical AI Projects
-
-📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-📌 Featured Areas
-
-<table>
-<tr>
-<td width="50%">
-
-🤖 Artificial Intelligence
-
-Machine Learning
-
-Deep Learning
-
-Generative AI
-
-Neural Networks
-
-</td>
-<td width="50%">
-
-👁️ Computer Vision
-
-Image Classification
-
-Image Processing
-
-CNN
-
-Data Augmentation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-🌱 AI in Agriculture
-
-Plant Disease Detection
-
-Citrus Disease Detection
-
-GAN-based Augmentation
-
-Smart Agriculture
-
-</td>
-<td width="50%">
-
-🎓 Education
-
-Python
-
-Java
-
-Data Structures
-
-AI/ML Teaching
-
-</td>
-</tr>
-</table>
-
-🌟 Research Journey
-
-Programming
-     ↓
-Machine Learning
-     ↓
-Deep Learning
-     ↓
-Computer Vision
-     ↓
-CNN
-     ↓
-GAN / DCGAN
-     ↓
-CNN-LSTM
-     ↓
-Generative AI
-     ↓
-Research & Publications
-
-🤝 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/shubhammadane">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-💬 Philosophy
+---
 
-Learn → Build → Research → Share
+⭐ **Building AI systems, researching new ideas, and turning problems into intelligent solutions.**
 
-<p align="center">
-  ⭐ If you find my work interesting, consider starring my repositories.
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my GitHub profile! 🚀</b>
-</p>
+### — Shubham Madane
